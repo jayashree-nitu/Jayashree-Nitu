@@ -4,6 +4,8 @@
 
   🔭 I’m currently working on **Food-App Project**
      
+  🏫 I’m currently learning React js from Namaste React Live Course by Akshay Saini
+     
   📫 How to reach me- jayashree.nitu@gmail.com
      
   💬 Ask me about **Frontend Development**
